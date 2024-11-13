@@ -5,12 +5,13 @@
 # Find out more about building applications with Shiny here:
 #
 #    https://shiny.posit.co/
-#
+# User interface side
 
 library(shiny)
 library(DT)
 
 data <- read.csv(file = "data/synthetic_data.csv")
+
 
 # Define UI for application that draws a histogram
 fluidPage(

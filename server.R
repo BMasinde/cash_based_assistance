@@ -6,7 +6,7 @@
 #
 #    https://shiny.posit.co/
 #
-
+# Server side
 library(shiny)
 library(DT)
 
