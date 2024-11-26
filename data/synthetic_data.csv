@@ -1,16 +1,16 @@
-"","first_name","children","age","cattle","illness","phone_numbers","image_names"
-"1","Brian","5","29","35","No","+999 721 xxx 687","Brian.jpeg"
-"2","Mary","4","44","38","No","+999 721 xxx 923","Mary.jpeg"
-"3","Mathew","5","46","35","No","+999 721 xxx 634","Mathew.jpeg"
-"4","Maria","1","67","8","No","+999 721 xxx 064","Maria.jpeg"
-"5","Susan","5","64","10","No","+999 721 xxx 896","Susan.jpeg"
-"6","Trudy","1","38","14","No","+999 721 xxx 968","Trudy.jpeg"
-"7","Jayden","5","27","36","No","+999 721 xxx 373","Jayden.jpeg"
-"8","Grace","7","31","18","No","+999 721 xxx 963","Grace.jpeg"
-"9","Audrey","1","57","29","No","+999 721 xxx 405","Audrey.jpeg"
-"10","Yvonne","1","71","5","Yes","+999 721 xxx 013","Yvonne.jpeg"
-"11","Bella","2","41","32","Yes","+999 721 xxx 009","Bella.jpeg"
-"12","Abigael","7","77","27","No","+999 721 xxx 367","Abigael.jpeg"
-"13","Jessica","7","20","1","No","+999 721 xxx 842","Jessica.jpeg"
-"14","Steven","4","79","9","No","+999 721 xxx 603","Steven.jpeg"
-"15","Michael","3","69","25","No","+999 721 xxx 463","Michael.jpeg"
+"","first_name","children","age","cattle","illness","phone_numbers","image_names","house_type","date","hazard","secondary_effects","Jan","Feb","March","April","May","June","July","August","Sept","Oct","Nov"
+"1","Brian",5,23,0,"No","+999 721 xxx 953","Brian.jpeg","permanent",2024-12-06,"flooding","Malaria",660,1164,911,853,795,1184,816,420,1056,1159,1067
+"2","Mary",0,77,35,"Yes","+999 721 xxx 733","Mary.jpeg","traditional",2024-12-31,"flooding","Cholera",1005,417,928,1145,1037,781,1075,805,924,761,558
+"3","Mathew",1,37,27,"No","+999 721 xxx 473","Mathew.jpeg","traditional",2024-12-09,"flooding","Livestock diseases",867,1073,822,910,853,1018,423,1056,730,552,1089
+"4","Maria",6,58,18,"No","+999 721 xxx 723","Maria.jpeg","permanent",2024-12-11,"flooding","Malaria",967,905,653,960,485,859,879,835,1161,1193,717
+"5","Susan",5,80,8,"Yes","+999 721 xxx 941","Susan.jpeg","permanent",2024-12-19,"flooding","Malaria",741,648,1014,783,1046,1172,614,613,594,838,522
+"6","Trudy",7,24,29,"No","+999 721 xxx 732","Trudy.jpeg","traditional",2024-12-25,"flooding","Cholera",674,994,821,1080,853,1037,496,675,886,1015,671
+"7","Jayden",4,78,16,"Yes","+999 721 xxx 682","Jayden.jpeg","permanent",2024-12-22,"flooding","Cholera",1007,911,985,737,569,825,480,695,1006,1130,693
+"8","Grace",0,49,37,"No","+999 721 xxx 537","Grace.jpeg","traditional",2024-12-14,"flooding","Malaria",739,1194,646,425,999,877,998,743,954,945,741
+"9","Audrey",2,68,21,"No","+999 721 xxx 914","Audrey.jpeg","traditional",2024-12-08,"flooding","Cholera",848,502,723,606,645,611,412,1134,492,725,549
+"10","Yvonne",2,23,5,"No","+999 721 xxx 505","Yvonne.jpeg","traditional",2024-12-17,"flooding","Livestock diseases",492,1106,563,667,791,623,439,1027,908,726,926
+"11","Bella",1,80,20,"No","+999 721 xxx 725","Bella.jpeg","permanent",2024-12-13,"flooding","Cholera",642,1048,1188,506,1191,452,998,990,647,516,1136
+"12","Abigael",4,54,20,"No","+999 721 xxx 008","Abigael.jpeg","traditional",2024-12-16,"flooding","Malaria",783,1057,853,799,739,850,685,624,682,557,987
+"13","Jessica",7,44,31,"No","+999 721 xxx 790","Jessica.jpeg","traditional",2024-12-02,"flooding","Malaria",675,1067,624,1041,595,609,1007,765,1184,553,1105
+"14","Steven",1,29,12,"Yes","+999 721 xxx 795","Steven.jpeg","traditional",2024-12-30,"flooding","Malaria",880,986,548,669,573,402,700,630,831,726,1162
+"15","Michael",6,25,16,"No","+999 721 xxx 282","Michael.jpeg","traditional",2024-12-28,"flooding","Cholera",460,1186,1006,807,951,871,1039,957,755,678,555
